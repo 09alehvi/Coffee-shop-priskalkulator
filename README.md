@@ -1,2 +1,11 @@
 # Coffee-shop-priskalkulator
-I dette repoet finner du utgangspunktet for å lage en priskalkulator til en kafé. Bytt ut README.md med en beskrivelse av prosjektet ditt.
+Dette er en priskalkulator for en kaffebar.
+
+Programmet lar brukeren velge:
+- Type kaffe
+- Størrelse på kaffe
+- Om kaffen skal tas med
+
+Etter det så regner programmet regner ut totalprisen.
+
+Jeg har brukt lister, dictionaries og while løkker for å gjøre koden mere ryddig og for å sjekke at personen skriver inn gyldige valg.
